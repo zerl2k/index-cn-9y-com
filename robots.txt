@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zerl2k.github.io/index-cn-9y-com/sitemap.xml
